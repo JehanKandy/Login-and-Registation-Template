@@ -1,15 +1,17 @@
 body{
     margin: 0;    
 }
-main{
+.home{
     background-image: url(../images/home4.jpg);
     height: 100vh;
     background-position: center;
     background-repeat: none;
-    background-size: cover;
+
 }
 .form-area{
     color: white;
-    text-align: center;
-    margin-top: 50px;
+    position: absolute;
+    border: 1px solid white;
+    margin-top: 100px;
+    width: 35%;
 }
