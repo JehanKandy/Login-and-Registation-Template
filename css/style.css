@@ -15,7 +15,6 @@ body{
     margin-top: 100px;
     width: 35%;
     margin-left: 30%;
-    backdrop-filter: blur(25px);
     padding: 0 20px 0 20px;
 }
 .form-area .title{
