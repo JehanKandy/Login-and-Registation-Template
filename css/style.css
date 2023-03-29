@@ -1,4 +1,7 @@
 main{
-    background-image: url(../images/home.png);
+    background-image: url(../images/home4.jpg);
     height: 100vh;
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
 }
