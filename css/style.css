@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&family=Josefin+Sans&family=Roboto&display=swap');
+
+/*
+    - font-family: 'Edu NSW ACT Foundation', cursive;
+    - font-family: 'Josefin Sans', sans-serif;
+    - font-family: 'Roboto', sans-serif;
+*/
+
 body{
     margin: 0;    
 }
@@ -18,7 +26,9 @@ body{
     padding: 0 20px 0 20px;
 }
 .form-area .title{
-    font-size: 20px;
+    font-size: 40px;
     text-align: center;
-    margin: 20px 0 15px 0;    
+    margin: 20px 0 15px 0;  
+    font-family: 'Josefin Sans', sans-serif; 
 }
+
